@@ -10,11 +10,11 @@ namespace P04NumbersInReversedOrder
             Console.WriteLine(ReversedNumber(number));
         }
 
-        static string ReversedNumber(string number)
+        public static string ReversedNumber(string number)
         {
             string result = "";
 
-            for (int i = number.Length - 1; i >= 0; i++)
+            for (int i = number.Length - 1; i >= 0; i--)
             {
                 result += number[i];
             }
