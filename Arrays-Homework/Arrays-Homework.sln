@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01LargestCommonEnd", "Arrays-Homework\P01LargestCommonEnd.csproj", "{1CAF1A9E-AE04-4964-BA87-DC9562F280AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02RotateAndSum", "P02RotateAndSum\P02RotateAndSum.csproj", "{8E93EC98-601F-440F-9A3F-51AE3A9CDE32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAF1A9E-AE04-4964-BA87-DC9562F280AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAF1A9E-AE04-4964-BA87-DC9562F280AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAF1A9E-AE04-4964-BA87-DC9562F280AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAF1A9E-AE04-4964-BA87-DC9562F280AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E93EC98-601F-440F-9A3F-51AE3A9CDE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E93EC98-601F-440F-9A3F-51AE3A9CDE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E93EC98-601F-440F-9A3F-51AE3A9CDE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E93EC98-601F-440F-9A3F-51AE3A9CDE32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6080223-3529-4F22-8F5C-C7EE3FFE7F6F}
+	EndGlobalSection
+EndGlobal
