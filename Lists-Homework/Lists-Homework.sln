@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists-Homework", "Lists-Homework\Lists-Homework.csproj", "{59FC9E3E-1C1C-481D-AA35-A6A8FF571C59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01MaxSequenceOfEqualElements", "Lists-Homework\P01MaxSequenceOfEqualElements.csproj", "{59FC9E3E-1C1C-481D-AA35-A6A8FF571C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02ChangeList", "P02ChangeList\P02ChangeList.csproj", "{AB700D7A-3020-452F-B35D-C7E1A9376915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03SearchForANumber", "P03SearchForANumber\P03SearchForANumber.csproj", "{59053AC2-95C5-4100-9EBD-5E53FFBD400C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06SumReversedNumbers", "P06SumReversedNumbers\P06SumReversedNumbers.csproj", "{6DBD7650-996A-4889-8077-515D666048C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05ArrayManipilator", "P05ArrayManipilator\P05ArrayManipilator.csproj", "{1583363F-7981-4AFD-8924-8D90D0FC5844}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{59FC9E3E-1C1C-481D-AA35-A6A8FF571C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59FC9E3E-1C1C-481D-AA35-A6A8FF571C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59FC9E3E-1C1C-481D-AA35-A6A8FF571C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB700D7A-3020-452F-B35D-C7E1A9376915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB700D7A-3020-452F-B35D-C7E1A9376915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB700D7A-3020-452F-B35D-C7E1A9376915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB700D7A-3020-452F-B35D-C7E1A9376915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59053AC2-95C5-4100-9EBD-5E53FFBD400C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59053AC2-95C5-4100-9EBD-5E53FFBD400C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59053AC2-95C5-4100-9EBD-5E53FFBD400C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59053AC2-95C5-4100-9EBD-5E53FFBD400C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DBD7650-996A-4889-8077-515D666048C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBD7650-996A-4889-8077-515D666048C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DBD7650-996A-4889-8077-515D666048C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DBD7650-996A-4889-8077-515D666048C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1583363F-7981-4AFD-8924-8D90D0FC5844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1583363F-7981-4AFD-8924-8D90D0FC5844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1583363F-7981-4AFD-8924-8D90D0FC5844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1583363F-7981-4AFD-8924-8D90D0FC5844}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
