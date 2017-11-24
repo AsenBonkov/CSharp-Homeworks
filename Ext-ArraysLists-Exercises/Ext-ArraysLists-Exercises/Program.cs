@@ -10,6 +10,7 @@ namespace Ext_ArraysLists_Exercises
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
